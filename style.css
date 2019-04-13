@@ -1,0 +1,57 @@
+body {
+font-family: 'Cormorant Garamond', serif;
+background-color: #E9D985;
+font-size: 25px;
+text-align: center;
+margin: 0 auto;
+}
+
+h1, h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #5C9EAD
+}
+
+h1 {
+text-shadow: 1px 1px 1px black;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+
+}
+
+a:hover {
+	opacity:0.5;
+}
+
+#banner {
+	background-image: url("https://images.pexels.com/photos/158637/sicily-italy-texture-city-158637.jpeg?cs=srgb&dl=buildings-houses-roofs-158637.jpg&fm=jpg");
+	background-size: cover;
+	padding: 40px 0px;
+}
+
+#banner p {
+	text-shadow: 1px 1px 1px black;
+}
+
+
+.button a {
+	height: 100px;
+	width: 100px;
+	padding: 10px 10px;
+	background-color: #5C9EAD;
+	border-radius: 10px;
+
+}
+.card-here img {
+	width: 200px;
+}
+
+#reference p {
+	font-size: 16px;
+}
